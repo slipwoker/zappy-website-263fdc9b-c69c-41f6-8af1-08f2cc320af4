@@ -1,0 +1,105 @@
+# Adel fidget toys — Generative Engine Optimization Map
+
+> A squash-related business or club, potentially offering courts, training, memberships, or equipment. The specific nature and scope of the business are yet to be determined.
+
+---
+
+## Pages
+
+### בית
+https://adel-fidget-toys-263fdc9b.zappy5.app
+גלו את עולם צעצועי הפידג&#39;ט של Adel fidget toys – משחקי סחיטה, לחיצה וסיבוב שהופכים כל רגע פנוי לחוויית ספורט ורוגע. היכנסו עכשיו והתחילו לשחק!
+
+### אודות
+https://adel-fidget-toys-263fdc9b.zappy5.app/about
+Adel fidget toys מביאים לכם עולם של תנועה וספורט ביד – למה בחרנו בצעצועי פידג&#39;ט? היכנסו לאודות וגלו את החזון, האנשים והאנרגיה שמניעים כל לחיצה.
+
+### גלריה
+https://adel-fidget-toys-263fdc9b.zappy5.app/gallery
+היכנסו לגלריית Adel fidget toys ותנו לעיניים לרוץ – צעצועי פידג&#39;ט מעוצבים, רגעי משחק סוחפים והשראה לספורט יומיומי. כל תמונה מזמינה אתכם לקחת חלק.
+
+### צור קשר
+https://adel-fidget-toys-263fdc9b.zappy5.app/contact
+רוצים להרגיש את Adel fidget toys בידיים? צרו קשר עוד היום – לייעוץ, הזמנות או סתם כדי לשמוע איך צעצוע אחד יכול לשנות את כל האנרגיה. אנחנו מחכים לכם!
+
+### Products
+https://adel-fidget-toys-263fdc9b.zappy5.app/products
+המוצרים שלנו - Adel fidget toys
+
+### Cart
+https://adel-fidget-toys-263fdc9b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://adel-fidget-toys-263fdc9b.zappy5.app/checkout
+תשלום
+
+### Login
+https://adel-fidget-toys-263fdc9b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://adel-fidget-toys-263fdc9b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://adel-fidget-toys-263fdc9b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://adel-fidget-toys-263fdc9b.zappy5.app/product/:slug
+פרטי המוצר - Adel fidget toys
+
+### Category
+https://adel-fidget-toys-263fdc9b.zappy5.app/category/:slug
+מוצרים - Adel fidget toys
+
+### תודה רבה | Adel fidget toys
+https://adel-fidget-toys-263fdc9b.zappy5.app/thank-you
+תודה שפניתם אל Adel fidget toys. פנייתכם התקבלה בהצלחה ונחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://adel-fidget-toys-263fdc9b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://adel-fidget-toys-263fdc9b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://adel-fidget-toys-263fdc9b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Adel fidget toys
+A squash-related business or club, potentially offering courts, training, memberships, or equipment. The specific nature and scope of the business are yet to be determined.
+
+## Target Audience
+- ילדים עם צרכים תחושתיים
+- אנשי מקצוע להפגת מתחים
+- חובבי מיינדפולנס
+- בעיות קשב וריכוז
+
+## Industry
+Sports & Recreation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://adel-fidget-toys-263fdc9b.zappy5.app/sitemap.xml
+- Robots: https://adel-fidget-toys-263fdc9b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://adel-fidget-toys-263fdc9b.zappy5.app/llms-full.txt
+- Products (JSON): https://adel-fidget-toys-263fdc9b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://adel-fidget-toys-263fdc9b.zappy5.app/product-feed.xml
